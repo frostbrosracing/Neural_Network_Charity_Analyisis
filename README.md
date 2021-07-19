@@ -27,9 +27,10 @@ Using a dataset provided by Alphabet Soup with more than 34,000 organizations th
 
 \* Unfortunately, none of the additional attempts that were made to optimize the model achieved the target accuracy of **75%**.  
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
-
 ## Summary
+* The original deep learning model was able to achieve an accuracy of 74.051% on the training data and 72.56% accuracy on the test data with a loss of 56.18%.
+* The second model improved very slightly and was able to achieve an accuracy of 74.413% on the training data and 72.979% on the test data with a loss of 56.99%.
+* The third model's accuracy once again improved slightly on the training data to 74.499% but deteriorated slightly in the test data to 72.513%.  Also, the loss increased to 61.436%.
+* The final model's accuracy on the test data was only 73.492% with 56.929% loss.  The negligible improvement in the final model's accuracy, despite the significant efforts and computational power needed to achive those results does not justify the additional input required for it's attainment.
+
 
