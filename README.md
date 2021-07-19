@@ -1,10 +1,10 @@
-<style>
-  div {
-  background-image: "Resources/alphabetsoup.jpg";
-  }
-  </style>
-# Alphabet Soup Neural Network Charity Analyisis
-
+<!DOCTYPE html>
+<html>
+    <head>
+    <img src="Resources/alphabetsoup.jpg"
+        style="float: center"/>
+    </head>
+    
 
 ## Project Overview of the Analysis
 #### The goal of this project was to build a machine learning neural network model that would be capable of predicting whether charities would be successful if given funds by Alphabet Soup, a funding source.
