@@ -10,7 +10,7 @@ Using a dataset provided by Alphabet Soup with more than 34,000 organizations th
 
 - Software:  Jupyter Notebook
 - Languages:  Pandas, Python
-- Libraries:  `tensorflow`  `scikit-learn` `sci-kit learn`
+- Libraries:  `tensorflow`  `scikit-learn`
 
   
 ## Results of the Analysis
