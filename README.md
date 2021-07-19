@@ -1,6 +1,9 @@
 <style>
   div {
-  background-image: "# Alphabet Soup Neural Network Charity Analyisis
+  background-image: "Resources/alphabetsoup.jpg";
+  }
+  </style>
+# Alphabet Soup Neural Network Charity Analyisis
 
 
 ## Project Overview of the Analysis
