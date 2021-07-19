@@ -33,4 +33,5 @@ Using a dataset provided by Alphabet Soup with more than 34,000 organizations th
 * The third model's accuracy once again improved slightly on the training data to 74.499% but deteriorated slightly in the test data to 72.513%.  Also, the loss increased to 61.436%.
 * The final model's accuracy on the test data was only 73.492% with 56.929% loss.  The negligible improvement in the final model's accuracy, despite the significant efforts and computational power needed to achive those results does not justify the additional input required for it's attainment.
 
-
+In an attempt to make a recommendation for a different model that might have improved accuracy for solving this classification problem, I tested with a Random Forest Classifier 
+with an Easy Ensemble AdaBoost and was also unable to achieve the target accuracy.  
