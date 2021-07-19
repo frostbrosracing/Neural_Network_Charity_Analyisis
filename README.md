@@ -25,7 +25,7 @@ Using a dataset provided by Alphabet Soup with more than 34,000 organizations th
     * In the second attempt at optimizing the model, I also modified the deep learning model by adding hidden layers and increasing the number of neurons.  I once again used the "Relu" activation function for all the hidden layers except the output layer which I also kept as "Sigmoid".
     * In the third and final attempt at optimizing the model, I tuned the hyperparameters of teh model with the Kerastuner library.
 
-Unfortunately, none of the additional attempts that were made to optimize the model achieved the target accuracy of **75%**.  
+\* Unfortunately, none of the additional attempts that were made to optimize the model achieved the target accuracy of **75%**.  
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
